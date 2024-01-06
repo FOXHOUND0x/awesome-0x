@@ -1,0 +1,7 @@
+https://aws.amazon.com/certification/certified-solutions-architect-associate/ - (I don't recommend the AWS CCP, it's not worth it (imo))
+https://www.pluralsight.com/cloud-guru/courses/aws-certified-solutions-architect-associate-saa-c03 (AWS Solutions Architect Associate course)
+https://www.youtube.com/watch?v=FCtX3-4W8_U (Expired, but still good to learn from)
+https://docs.aws.amazon.com/pdfs/cli/latest/userguide/aws-cli.pdf - AWS Command Line Interface User Guide
+https://docs.aws.amazon.com/pdfs/AWSEC2/latest/UserGuide/ec2-ug.pdf - AWS EC2 User Guide
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-userguide.pdf - AWS S3 User Guide
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/rds-ug.pdf - AWS RDS User Guide
